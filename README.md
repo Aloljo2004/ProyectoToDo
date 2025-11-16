@@ -1,4 +1,4 @@
-# EL ToDo REACT
+# El Proyecto Supabase
 ## Tutorial instalación
 ### Paso 1. Descargar y ponerlo en una carpeta bien localizada.
 ### Paso 2. Abrir la cmd y desplazarnos a la carpeta en cuestión.
